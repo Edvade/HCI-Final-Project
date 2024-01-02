@@ -3,7 +3,7 @@ body {
     background-image: url(backgrounddashboard2.png);
     background-repeat: no-repeat;
     background-size: cover;
-    margin-top: 60px; /* Add margin to create space for the fixed header */
+    margin-top: 60px; 
 }
 
 .nav-item{
