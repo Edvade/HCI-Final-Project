@@ -50,18 +50,18 @@ h5 {
 /* Responsive styles */
 @media (max-width: 768px) {
     h1 {
-        font-size: 4rem; /* Adjust font size for smaller screens */
+        font-size: 4rem;
         margin-top: 40%;
     }
 
     h3 {
-        font-size: 20px; /* Adjust font size for smaller screens */
-        padding: 10px 20px; /* Adjust padding for smaller screens */
+        font-size: 20px; 
+        padding: 10px 20px; 
     }
 
     h5 {
-        font-size: 16px; /* Adjust font size for smaller screens */
-        bottom: 5px; /* Adjust bottom position for smaller screens */
-        right: 5px; /* Adjust right position for smaller screens */
+        font-size: 16px; 
+        bottom: 5px; 
+        right: 5px; 
     }
 }
