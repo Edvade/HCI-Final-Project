@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f5f8fa;
-    margin-top: 60px; /* Add margin to create space for the fixed header */
+    margin-top: 60px; 
     background-image: url(backgrounddashboard.png);
     background-repeat: no-repeat;
     background-size: cover;
